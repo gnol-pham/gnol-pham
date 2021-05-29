@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gnol-pham
+- 👋 Hi, I’m @gnol-pham (aka Long Pham)
 - 👀 I’m interested in Computer, Games and Space
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
